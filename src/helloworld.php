@@ -2,7 +2,7 @@
 
 namespace HelloWorld;
 
-class SayHello
+class HelloWorld
 {
     public static function world()
     {
