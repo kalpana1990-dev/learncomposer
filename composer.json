@@ -1,0 +1,12 @@
+{
+    "name": "kalpana1990-dev/learncomposer",
+    "description": "\"for testing and learning\"",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kalpana1990-dev",
+            "email": "er.kalpanasharma@gmail.com"
+        }
+    ],
+    "require": {}
+}
