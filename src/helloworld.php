@@ -1,7 +1,5 @@
 <?php 
 
-namespace HelloWorld;
-
 class HelloWorld
 {
     public static function world()
